@@ -38,6 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -178,7 +179,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: d41c063208b0e2e44bcb64d85d3c8b5e, type: 2}
+    - {fileID: 11400000, guid: 45ed7bdffe4bd3d44b1198dfc183255e, type: 2}
 --- !u!114 &48730381
 MonoBehaviour:
   m_ObjectHideFlags: 0
